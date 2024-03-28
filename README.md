@@ -3,7 +3,7 @@
 <div style="text-align: center;">
 <b>Sample UI of the Menu:</b><br>
 
-<img src="[https://i.imgur.com/f20XTb4.png](https://github.com/ioscoderr/IOS-MOD-MENU/blob/main/IMG_0332.JPG)">
+<img src="https://i.imgur.com/f20XTb4.png](https://github.com/ioscoderr/IOS-MOD-MENU/blob/main/IMG_0332.JPG">
 </div>
 
 <br>
